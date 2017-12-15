@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace Ruleta_V2._0
 {
-    class Program
+    public enum TypSazky
     {
-        static void Main(string[] args)
-        {
-            // na Githube clovek duchij
-        }
+        NaCislo,
+        NaBarvu,
+        NaRadu,
+        NaLichost,
+        NaRozsah
     }
 }

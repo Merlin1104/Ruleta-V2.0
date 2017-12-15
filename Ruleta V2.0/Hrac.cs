@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace Ruleta_V2._0
 {
-    class Program
+    class Hrac
     {
-        static void Main(string[] args)
-        {
-            // na Githube clovek duchij
-        }
+        public int Bank;
     }
 }
